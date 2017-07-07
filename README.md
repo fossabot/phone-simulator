@@ -1,6 +1,7 @@
 # phone-simulator
 
 ![USSD-Client](https://user-images.githubusercontent.com/1968058/27106859-748da2de-5052-11e7-9496-457587d67445.gif)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fphone-simulator.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fphone-simulator?ref=badge_shield)
 
 This project is to simulate the Mobile Phone to do various demos. For now it will only support USSD Messages. It supports pull and push notification.
 
@@ -40,3 +41,7 @@ Acknowledgements
 ========
 
 Thanks to Joram Herrera from Somos Discovery for this great work! :)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fphone-simulator.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fphone-simulator?ref=badge_large)
